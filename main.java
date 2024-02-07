@@ -1,4 +1,7 @@
 package cuentas;
+/**Author Borja Garzon
+*/
+
 public class main {
 
 	public static void main(String[] args) {
